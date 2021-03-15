@@ -1,0 +1,2 @@
+Julie Hoareau et Solene Forfait
+Nous pensons que la commande add ajoute le fichier dans la nouvelle branche et lorsque l'on commit cela ecrase le fichier dans la branche master.
